@@ -19,4 +19,4 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514996960834&text=Hello!)](https://api.whatsapp.com/send?phone=5514996960834&text=Hello!)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aptsharp)](https://github.com/aptsharp)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afonso.raffael@gmail.com)](mailto:afonso.raffael@gmail.com)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAfonso12149401)
+![Twitter Follow](https://img.shields.io/twitter/follow/Afonso12149401?label=Twitter&logo=twitter&style=social)
