@@ -1,6 +1,6 @@
 ### ⁂👓🧮🖥👾💻📲📱🤖😎
 ### O maior de todos os prazeres é a Compreensão.
-##(Leonardo da Vinci).
+###¬¬(Leonardo da Vinci).
 
 - 🔭 I’m currently working on WEB and mobile projects using Xamarin
 - 🌱 I’m currently learning to use the Xamarin platform
