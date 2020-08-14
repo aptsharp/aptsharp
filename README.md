@@ -1,6 +1,7 @@
 ### ⁂👓🧮🖥👾💻📲📱🤖😎
 ### O maior de todos os prazeres é a Compreensão.(Leonardo da Vinci).
 
+<img src="https://user-images.githubusercontent.com/6175226/90264801-05778b00-de28-11ea-8034-bb35cd0ed0db.gif" width="300" align="right">
 
 - 🔭 I’m currently working on WEB and mobile projects using Xamarin
 - 🌱 I’m currently learning to use the Xamarin platform
@@ -11,3 +12,4 @@
 - 😄 Pronouns: .Net, ASP.Net, C#, Science, Software Engeneering, AI.
 - ⚡ Fun fact: I love chess, reading, manga is all good, besides making software I also make books.
 
+### About me
