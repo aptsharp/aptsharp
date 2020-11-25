@@ -1,4 +1,7 @@
 ### ⁂👓🧮🖥👾💻📲📱🤖😎
+
+<img align="right" src="https://komarev.com/ghpvc/?username=aptsharp&label=Profile%20views&color=green&style=flat" alt="aptsharp" />
+
 ### O maior de todos os prazeres é a Compreensão.(Leonardo da Vinci).
 
 <img src="https://user-images.githubusercontent.com/6175226/90264801-05778b00-de28-11ea-8034-bb35cd0ed0db.gif" width="300" align="right">
@@ -21,4 +24,27 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aptsharp)](https://github.com/aptsharp)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afonso.raffael@gmail.com)](mailto:afonso.raffael@gmail.com)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=aptsharp&label=Profile%20views&color=green&style=flat" alt="aptsharp" />
+### Languages and Tools:
+
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/>  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="25" height="25"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="25" height="25"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android" width="25" height="25"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="25" height="25"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" alt="dot-net" width="25" height="25"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="25" height="25"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="25" height="25"/>  
+</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aptsharp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aptsharp&show_icons=true" alt="angais" /></p>
