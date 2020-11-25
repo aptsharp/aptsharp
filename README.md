@@ -20,3 +20,5 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514996960834&text=Hello!)](https://api.whatsapp.com/send?phone=5514996960834&text=Hello!)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aptsharp)](https://github.com/aptsharp)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afonso.raffael@gmail.com)](mailto:afonso.raffael@gmail.com)
+
+<img align="right" src="https://komarev.com/ghpvc/?username=aptsharp&label=Profile%20views&color=green&style=flat" alt="aptsharp" />
