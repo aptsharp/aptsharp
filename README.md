@@ -27,7 +27,10 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cp" width="25" height="25"/>
+  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="vscode" width="25" height="20"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="vs2019" width="25" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" alt="dot-net" width="25" height="25"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="25" height="25"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/>
@@ -40,7 +43,9 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="25" height="25"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="25" height="25"/>  
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="25" height="25"/>
+  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="cp" width="25" height="20"/>
+  
 </p>
 
 
