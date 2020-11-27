@@ -47,6 +47,6 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aptsharp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aptsharp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aptsharp&show_icons=true" alt="angais" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aptsharp&theme=tokyonight&show_icons=true" alt="aptsharp"/>
