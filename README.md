@@ -23,6 +23,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afonso.raffael@gmail.com)](mailto:afonso.raffael@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aptsharp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aptsharp&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aptsharp&theme=tokyonight&show_icons=true" alt="aptsharp"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aptsharp&theme=vue&show_icons=true" alt="aptsharp"/>
