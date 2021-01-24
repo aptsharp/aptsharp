@@ -1,6 +1,6 @@
 ### ⁂👓🧮🖥👾💻📲📱🤖😎
 
-<img align="right" src="https://komarev.com/ghpvc/?username=aptsharp&label=Profile%20views&color=green&style=flat" alt="aptsharp"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=aptsharp&label=Profile%views&color=green&style=flat" alt="aptsharp"/>
 
 ### O maior de todos os prazeres é a Compreensão.(Leonardo da Vinci).
 
