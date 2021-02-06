@@ -28,9 +28,9 @@
 <details>
   <summary align="center">💻 More </summary>
       <br />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptsharp&langs_count=20&layout=compact" />
-      <img align="center" width=550 src="https://github-readme-stats.vercel.app/api?username=aptsharp&show_icons=true&theme=highcontrast" /> <br />
-      <img align="right" width=950 src="https://github-profile-trophy.vercel.app/?username=aptsharp&column=7&theme=gruvbox&no-frame=true" /> <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptsharp&langs_count=20&layout=compact" />
+      <img width=550 src="https://github-readme-stats.vercel.app/api?username=aptsharp&show_icons=true&theme=highcontrast" /> <br />
+      <img width=950 src="https://github-profile-trophy.vercel.app/?username=aptsharp&column=7&theme=gruvbox&no-frame=true" /> <br />
       <br />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptsharp&theme=dark" /> <br />
       
