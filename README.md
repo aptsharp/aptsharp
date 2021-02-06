@@ -4,7 +4,7 @@
 
 ### O maior de todos os prazeres é a Compreensão.(Leonardo da Vinci).
 
-<img src="https://user-images.githubusercontent.com/6175226/90264801-05778b00-de28-11ea-8034-bb35cd0ed0db.gif" width="300" align="right">
+<img src="https://user-images.githubusercontent.com/6175226/107104274-a6576980-67ff-11eb-917b-0da4e62d9105.gif" width="300" align="right">
 
 - 🔭 I’m currently working on WEB projects that add several technologies.
 - 🌱 I’m currently learning how to better use my skills as a developer to increase my productivity and improve my code.
