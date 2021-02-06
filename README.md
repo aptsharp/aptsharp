@@ -22,5 +22,16 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aptsharp)](https://github.com/aptsharp)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afonso.raffael@gmail.com)](mailto:afonso.raffael@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aptsharp&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;<img width="420" src="https://github-readme-stats.vercel.app/api?username=aptsharp&theme=vue&show_icons=true" alt="aptsharp"/>
+
+<hr />
+
+<details>
+  <summary align="center">💻 More </summary>
+      <br />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptsharp&langs_count=20&layout=compact" />
+      <img align="center" width=550 src="https://github-readme-stats.vercel.app/api?username=aptsharp&show_icons=true&theme=highcontrast" /> <br />
+      <img align="right" width=950 src="https://github-profile-trophy.vercel.app/?username=aptsharp&column=7&theme=gruvbox&no-frame=true" /> <br />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptsharp&theme=dark" /> <br />
+      
+</details>
