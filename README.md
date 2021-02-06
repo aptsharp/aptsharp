@@ -1,4 +1,4 @@
-### ⁂👓🧮🖥👾💻📲📱🤖😎
+### ⁂👓🧮🖥👾💻📲📱🤖😎 :octocat:
 
 <img align="right" src="https://komarev.com/ghpvc/?username=aptsharp&label=Profile%20views&color=green&style=flat" alt="aptsharp"/>
 
@@ -26,7 +26,7 @@
 <hr />
 
 <details>
-  <summary align="center">💻 More </summary>
+  <summary align="center"> :eyes: More Information :warning: </summary>
       <br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptsharp&langs_count=20&layout=compact" /> <br />
       <br />
