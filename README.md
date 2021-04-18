@@ -6,10 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/6175226/107104274-a6576980-67ff-11eb-917b-0da4e62d9105.gif" width="300" align="right">
 
-- 🔭 I’m currently working on WEB projects that add several technologies.
-- 🌱 I’m currently learning how to better use my skills as a developer to increase my productivity and improve my code.
-- 👯 I’m looking to collaborate on open source projects, mobile and WEB projects that involve innovation and technological advancement.
-- 🤔 I’m looking for helping with new technologies and collaborate with the community, developing my skills as a developer and computer scientist using processes and mathematics to solve problems without leaving the simplicity and applicability of the solution on a daily basis.
+- 🔭 I’m currently working on Avanade as Software Developer.
+- 🌱 I’m currently learning how to use my skills to improve my code and increase my productivity.
+- 👯 I’m collaborating on open source projects, software development projects for institutions and non-profit NGOs and WEB projects.
+- 🤔 I’m must help with new technologies and collaborate with communities, developing my skills as a developer and scientist using processes and mathematics to solve problems without leaving the simplicity of the application.
 
 ### 📫 How to reach me 💬
 
