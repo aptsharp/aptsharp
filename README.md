@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning how to better use my skills as a developer to increase my productivity and improve my code.
 - 👯 I’m looking to collaborate on open source projects, mobile and WEB projects that involve innovation and technological advancement.
 - 🤔 I’m looking for helping with new technologies and collaborate with the community, developing my skills as a developer and computer scientist using processes and mathematics to solve problems without leaving the simplicity and applicability of the solution on a daily basis.
-- 💬 Ask me about new new technologies and innovation.
-- ⚡ Fun fact: I love chess, reading, manga, besides making software.
 
 ### 📫 How to reach me 💬
 
