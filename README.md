@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=aptsharp&label=Profile%20views&color=green&style=flat" alt="aptsharp"/>
 
-### Hi, I'm Afonso 🧙‍♂️ - aptSharp
+### Hi, I'm Afonso 🧙‍♂️ - aptSharp ッ
 
 <img src="https://user-images.githubusercontent.com/6175226/107104274-a6576980-67ff-11eb-917b-0da4e62d9105.gif" width="300" align="right">
 
