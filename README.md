@@ -2,7 +2,7 @@
 
 ### Hi, I'm Afonso 🧙‍♂️ - aptSharp ッ
 
-<img src="https://user-images.githubusercontent.com/6175226/107104274-a6576980-67ff-11eb-917b-0da4e62d9105.gif" width="300" align="right">
+<img src="https://github.com/user-attachments/assets/6569c303-c784-49ec-9f16-b7a7b97a4034" width="300" align="right">
 
 - 🔭 I’m currently working on Avanade as Software Developer.
 - 🌱 I’m currently learning how to use my skills to improve my code and increase my productivity.
