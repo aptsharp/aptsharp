@@ -1,8 +1,9 @@
+
 <img align="right" src="https://komarev.com/ghpvc/?username=aptsharp&label=Profile%20views&color=green&style=flat" alt="aptsharp"/>
 
 ### Hi, I'm Afonso 🧙‍♂️ - aptSharp ッ
 
-<img src="https://github.com/user-attachments/assets/6569c303-c784-49ec-9f16-b7a7b97a4034" width="300" align="right">
+<img src="https://github.com/user-attachments/assets/cd2ab6d7-cacf-48a2-ba39-5769e6ade325" width="300" align="right">
 
 - 🔭 I’m currently working on Avanade as Software Developer.
 - 🌱 I’m currently learning how to use my skills to improve my code and increase my productivity.
@@ -25,3 +26,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptsharp&theme=dark" /> <br/>  <br/>
 :octocat:  
 </details>
+
+
+
